@@ -1,6 +1,6 @@
 # Orchestral-AI Demo
 
-## Installation
+## Orchestral Installation
 
 Tested on MacOS.
 Instructions to run GPVM will come soon.
@@ -16,8 +16,15 @@ pip install orchestral-ai
 pip install google-api-core
 ```
 
+## ECL-API Installation
+
 Install the ecl-api package:
 ```bash
 pip install ecl-api
 ```
 This package allows interacting with the e-log from Python. More info: https://github.com/marcodeltutto/ecl-api.
+
+
+## Ollama Installation
+
+Go to https://ollama.com and download Ollama on your Mac. Open the application and select `gpt-oss:20b`, click on the download symbol next to it. This will download the Open AI `gpt-oss:20b` on your computer. 
