@@ -50,6 +50,8 @@ pip install ecl-api
 ```
 This package allows interacting with the e-log from Python. More info: https://github.com/marcodeltutto/ecl-api.
 
+Your ECL needs to have an XML account. Add this account password in a file called `pwd.txt` and update the username in the notebook.
+
 
 ## Ollama Installation
 
