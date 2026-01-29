@@ -2,6 +2,7 @@
 .python-version
 workdir/
 pwd.txt
+.env
 
 
 # Byte-compiled / optimized / DLL files
